@@ -8201,6 +8201,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 175.26) (xy 144.78 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9982a88c-eb84-40c7-8b31-c2c56b36da39")
+	)
+	(wire
+		(pts
 			(xy 63.5 134.62) (xy 63.5 133.35)
 		)
 		(stroke
@@ -9314,7 +9324,7 @@
 			)
 		)
 	)
-	(global_label "BCM_29 (RxD)"
+	(global_label "BCM_29_(RxD)"
 		(shape input)
 		(at 186.69 86.36 0)
 		(fields_autoplaced yes)
@@ -9906,7 +9916,7 @@
 			)
 		)
 	)
-	(global_label "BCM_28 (TxD)"
+	(global_label "BCM_28_(TxD)"
 		(shape input)
 		(at 186.69 82.55 0)
 		(fields_autoplaced yes)
@@ -10051,6 +10061,28 @@
 		(uuid "ac0f4202-5782-48b4-968e-d2a693a64695")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 61.5991 223.5994 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BCM_26"
+		(shape input)
+		(at 140.97 175.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ae7059c6-518f-4331-9efb-33e615794b79")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.261 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
