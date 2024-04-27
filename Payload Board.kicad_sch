@@ -9740,7 +9740,7 @@
 			)
 		)
 	)
-	(global_label "H2_12"
+	(global_label "H2_22"
 		(shape input)
 		(at 265.43 116.84 0)
 		(fields_autoplaced yes)
@@ -9752,7 +9752,7 @@
 		)
 		(uuid "2b4181b3-77c4-4628-8c9e-0707b017f931")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.6809 116.7606 0)
+			(at 273.6876 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10836,7 +10836,7 @@
 			)
 		)
 	)
-	(global_label "H2_14"
+	(global_label "H2_24"
 		(shape input)
 		(at 265.43 119.38 0)
 		(fields_autoplaced yes)
@@ -10848,7 +10848,7 @@
 		)
 		(uuid "cb5ae632-d0e1-49ce-879f-0b4c73376a39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.6809 119.3006 0)
+			(at 273.6876 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
