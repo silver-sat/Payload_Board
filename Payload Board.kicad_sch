@@ -7447,6 +7447,18 @@
 		(at 190.5 58.42)
 		(uuid "5fccf635-b447-4fd1-8a12-f4bf7e832a60")
 	)
+	(no_connect
+		(at 45.72 139.7)
+		(uuid "86fa806e-d20e-4903-b024-2e5135dba629")
+	)
+	(no_connect
+		(at 45.72 163.83)
+		(uuid "8778d310-7bbd-484a-aaa4-b1ed134ece5f")
+	)
+	(no_connect
+		(at 45.72 118.11)
+		(uuid "8ea7006d-cc19-4978-86e2-abb958403082")
+	)
 	(wire
 		(pts
 			(xy 166.37 66.04) (xy 166.37 86.36)
@@ -7809,16 +7821,6 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 107.95) (xy 292.1 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ed8e6af-4654-4e04-bbca-18704f437ccf")
-	)
-	(wire
-		(pts
 			(xy 267.97 121.92) (xy 267.97 129.54)
 		)
 		(stroke
@@ -7856,6 +7858,16 @@
 			(type default)
 		)
 		(uuid "23843484-6303-4a92-b9e3-4e3f9dd0af24")
+	)
+	(wire
+		(pts
+			(xy 290.83 110.49) (xy 293.37 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "254f2b04-8495-4a06-b57d-72e2639c025a")
 	)
 	(wire
 		(pts
@@ -8296,16 +8308,6 @@
 			(type default)
 		)
 		(uuid "576c6616-e95d-4f1e-8ead-dea30fcdc8c2")
-	)
-	(wire
-		(pts
-			(xy 292.1 113.03) (xy 293.37 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5914ba72-a4fc-4ffe-b7db-5824af90b542")
 	)
 	(wire
 		(pts
@@ -9149,6 +9151,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 113.03) (xy 293.37 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acc96a7c-1ef6-43e3-8799-9e168fb5758d")
+	)
+	(wire
+		(pts
 			(xy 144.78 33.02) (xy 144.78 38.1)
 		)
 		(stroke
@@ -9186,16 +9198,6 @@
 			(type default)
 		)
 		(uuid "b0c5ef30-c013-478c-9d97-928550760f76")
-	)
-	(wire
-		(pts
-			(xy 292.1 110.49) (xy 293.37 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b210b73e-5b63-4828-b121-80945954cb72")
 	)
 	(wire
 		(pts
@@ -9416,6 +9418,16 @@
 			(type default)
 		)
 		(uuid "ca4e9c0d-3871-4fb1-bbb8-594b88a93b24")
+	)
+	(wire
+		(pts
+			(xy 292.1 107.95) (xy 292.1 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caa198cb-f3d5-4178-91cd-83b786ccb5cb")
 	)
 	(wire
 		(pts
@@ -9906,7 +9918,7 @@
 	)
 	(global_label "H1_7"
 		(shape input)
-		(at 292.1 113.03 180)
+		(at 290.83 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9916,7 +9928,7 @@
 		)
 		(uuid "13da2336-dae8-4fd3-9f41-0b915be1bcc6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 285.0587 112.9506 0)
+			(at 283.7887 112.9506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10477,7 +10489,7 @@
 	)
 	(global_label "H1_5"
 		(shape input)
-		(at 292.1 110.49 180)
+		(at 290.83 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10487,7 +10499,7 @@
 		)
 		(uuid "688e0cfb-10b5-490f-b2e8-7f6f2f7b13b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 285.0587 110.4106 0)
+			(at 283.7887 110.4106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18433,7 +18445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 40.386 115.824 90)
 			(effects
 				(font
@@ -18503,7 +18515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 42.926 161.544 90)
 			(effects
 				(font
@@ -19109,7 +19121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 145.796 29.464 90)
 			(effects
 				(font
@@ -19241,7 +19253,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 199.39 33.9852 0)
 			(effects
 				(font
@@ -19445,7 +19457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 			(at 180.34 36.83 0)
 			(effects
 				(font
@@ -19828,7 +19840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 41.656 137.414 90)
 			(effects
 				(font
@@ -19895,7 +19907,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 180.086 34.036 90)
 			(effects
 				(font
