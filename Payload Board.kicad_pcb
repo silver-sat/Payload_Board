@@ -1553,7 +1553,7 @@
 		(descr "Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf")
 		(tags "raspberry pi zero through hole")
 		(property "Reference" "U1"
-			(at -6.09752 23.011666 0)
+			(at -6.09752 23.011666 180)
 			(layer "F.SilkS")
 			(uuid "e4c6fdbb-fdc7-4ad4-a516-240d84cdc120")
 			(effects
@@ -2499,7 +2499,7 @@
 			(uuid "7e0a03ae-d054-4f76-a131-5c09b8dc1636")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.27 24.13 0)
+			(at -1.27 24.13 180)
 			(layer "F.Fab")
 			(uuid "a9b3f6e4-7a6d-4ae8-ad28-3d8458e0ca1a")
 			(effects
@@ -2996,6 +2996,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/SLW-120-01-G-D.stp"
+			(offset
+				(xyz -1.27 -24.13 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Silversat special parts:UCAM-III"
 		(locked yes)
@@ -3267,6 +3278,17 @@
 			(pinfunction "RST")
 			(pintype "input")
 			(uuid "b1c649b1-f44d-46c7-9dea-818e75a1b87e")
+		)
+		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/BSW-105-04-G-S.stp"
+			(offset
+				(xyz -1.8034 -14.986 8.89)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
