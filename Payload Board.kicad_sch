@@ -17451,7 +17451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 320.4972 211.963 0)
 			(effects
 				(font
@@ -17487,7 +17487,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD1002V "
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 318.77 210.82 0)
 			(effects
 				(font
@@ -17538,7 +17538,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 331.9272 211.963 0)
 			(effects
 				(font
@@ -17574,7 +17574,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD1002V "
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 330.2 210.82 0)
 			(effects
 				(font
@@ -17775,7 +17775,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 344.6272 211.963 0)
 			(effects
 				(font
@@ -17811,7 +17811,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD1002V "
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 342.9 210.82 0)
 			(effects
 				(font
@@ -18012,7 +18012,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 357.3272 211.963 0)
 			(effects
 				(font
@@ -18048,7 +18048,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD1002V "
+		(property "MPN" "ERJ-3EKF1001V"
 			(at 355.6 210.82 0)
 			(effects
 				(font
