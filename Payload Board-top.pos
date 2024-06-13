@@ -1,0 +1,59 @@
+### Footprint positions - created on 2024-06-13T14:24:46-0400 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                                                     PosX       PosY       Rot  Side
+C1        0.1u                          C_0603_1608Metric                                        76.0750    70.1250  -90.0000  top
+C2        0.1u                          C_0603_1608Metric                                        75.6000    58.6000  -90.0000  top
+C3        0.1u                          C_0603_1608Metric                                        75.8000    45.8000  -90.0000  top
+C4        1u                            C_0805_2012Metric                                         3.0750    80.2750   90.0000  top
+C5        0.1u                          C_0603_1608Metric                                        14.6219    57.2067    0.0000  top
+C6        1u                            C_0805_2012Metric                                         0.7500    80.2750   90.0000  top
+C7        0.1u                          C_0603_1608Metric                                        14.7269    70.8367  180.0000  top
+C8        0.1u                          C_0603_1608Metric                                        16.5119    68.3367    0.0000  top
+C10       0.1u                          C_0603_1608Metric                                        10.7702    49.0242    0.0000  top
+C11       0.1u                          C_0603_1608Metric                                        23.5902    44.0242  180.0000  top
+C12       0.1u                          C_0603_1608Metric                                        42.3000    71.2000   90.0000  top
+D1        LED                           LED_D3.0mm                                               -1.7848    28.8642    0.0000  top
+D2        LED                           LED_D3.0mm                                               -1.8148    23.1242    0.0000  top
+D3        LED                           LED_D3.0mm                                               -1.8848    17.2142    0.0000  top
+D4        LED                           LED_D3.0mm                                               -1.9648    11.7742    0.0000  top
+FID1      Fiducial_1.5mm_Mask2.5mm      Fiducial_1.5mm_Mask2.5mm                                 77.3402    76.8942    0.0000  top
+FID2      Fiducial_1.5mm_Mask2.5mm      Fiducial_1.5mm_Mask2.5mm                                  8.7602     3.2342    0.0000  top
+FID3      Fiducial_1.5mm_Mask2.5mm      Fiducial_1.5mm_Mask2.5mm                                 79.8802     8.3142    0.0000  top
+H1        Conn_02x26_Odd_Even           TheBus2x26                                                8.8900    80.6450   90.0000  top
+H2        Conn_02x26_Odd_Even           TheBus2x26                                                8.8900    85.7250   90.0000  top
+IC1       BD2268G-MGTR-SamacSys_Parts2  TSOP-5_1.65x3.05mm_P0.95mm                                1.9102    76.4342    0.0000  top
+J1        Conn_01x08_Male               PinHeader_1x08_P2.54mm_Vertical                          80.0219    34.8167    0.0000  top
+R1        10k                           R_0603_1608Metric                                        15.8819    44.0067  -90.0000  top
+R2        10k                           R_0603_1608Metric                                        18.5319    44.0267   90.0000  top
+R3        10k                           R_0603_1608Metric                                        20.6519    44.7467   90.0000  top
+R4        10k                           R_0603_1608Metric                                        20.1352    70.7642  -90.0000  top
+R5        10k                           R_0603_1608Metric                                        68.0450    49.9050    0.0000  top
+R6        10k                           R_0603_1608Metric                                        -1.9381    68.1467    0.0000  top
+R7        10k                           R_0603_1608Metric                                        -1.9581    66.5467    0.0000  top
+R8        453                           R_0603_1608Metric                                        13.4719    68.3267    0.0000  top
+R9        1k                            R_0603_1608Metric                                         3.5552    28.8342  180.0000  top
+R10       1k                            R_0603_1608Metric                                         3.5702    23.1642  180.0000  top
+R11       1k                            R_0603_1608Metric                                         3.4302    17.2242  180.0000  top
+R12       1k                            R_0603_1608Metric                                         3.3702    11.7442  180.0000  top
+R13       10k                           R_0603_1608Metric                                        10.7702    45.0142  180.0000  top
+R14       10k                           R_0603_1608Metric                                        10.7502    46.9542  180.0000  top
+R15       10k                           R_0603_1608Metric                                        -0.1698    36.4142  -90.0000  top
+R16       10k                           R_0603_1608Metric                                         1.4302    36.4142  -90.0000  top
+R17       10k                           R_0603_1608Metric                                         3.1802    36.4542   90.0000  top
+R18       4.7k                          R_0603_1608Metric                                        31.4000    67.7000   90.0000  top
+R19       10k                           R_0603_1608Metric                                        68.3450    61.7050    0.0000  top
+R20       10k                           R_0603_1608Metric                                        73.6700    73.6050    0.0000  top
+R21       10k                           R_0603_1608Metric                                        29.6450    71.3050    0.0000  top
+U1        RaspberryPiZero(v1.1)         Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles    64.0719    33.9667  -90.0000  top
+U2        74LVC1G07MDCKREPG4            SOT-353_SC-70-5                                          72.5819    70.2467    0.0000  top
+U3        74LVC1G07MDCKREPG4            SOT-353_SC-70-5                                          72.2219    58.5767    0.0000  top
+U4        74LVC1G07MDCKREPG4            SOT-353_SC-70-5                                          72.3602    45.8242    0.0000  top
+U5        74HC157                       SOIC-16_3.9x9.9mm_P1.27mm                                36.8450    67.5050    0.0000  top
+U6        SN74CB3Q3306A                 TSSOP-8_4.4x3mm_P0.65mm                                   9.1819    55.9667    0.0000  top
+U7        uCamIII                       UCAM-III                                                 39.9250    42.8500  180.0000  top
+U8        SN65HVD70D                    SOIC-14_3.9x8.7mm_P1.27mm                                 8.2019    66.9267    0.0000  top
+U9        74HC02                        SOIC-14_3.9x8.7mm_P1.27mm                                 4.4502    45.1942    0.0000  top
+U10       74LVC1G332                    SOT-23-6                                                 29.5102    48.5642    0.0000  top
+## End
