@@ -3002,6 +3002,17 @@
 				(xyz -90 0 90)
 			)
 		)
+		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/Raspberry PI Zero W.step"
+			(offset
+				(xyz 25.2222 8.382 12.065)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 -180 -90)
+			)
+		)
 	)
 	(footprint "Silversat special parts:UCAM-III"
 		(layer "F.Cu")
@@ -3282,6 +3293,17 @@
 			)
 			(rotate
 				(xyz 90 0 180)
+			)
+		)
+		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/uCAM-III_simplestepmodel_R_4_1.STEP"
+			(offset
+				(xyz -0.127 0 -10.16)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 90 90)
 			)
 		)
 	)
