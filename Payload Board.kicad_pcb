@@ -3006,9 +3006,9 @@
 	(footprint "Silversat special parts:UCAM-III"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006143fa44")
-		(at 96.53 103.34 180)
+		(at 96.483128 103.336662 180)
 		(property "Reference" "U7"
-			(at 0.05 -16.9 0)
+			(at -9.7 16.9 0)
 			(layer "F.SilkS")
 			(uuid "7599133e-c681-4202-85d9-c20dac196c64")
 			(effects
@@ -3292,7 +3292,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 1.973334 -1.64252 90)
+			(at 2.363128 -1.453338 0)
 			(layer "F.SilkS")
 			(uuid "aa79024d-ca7e-4c24-b127-7df08bbd0c75")
 			(effects
@@ -3528,7 +3528,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.5 90)
+			(at -2.825 -0.375 90)
 			(layer "F.SilkS")
 			(uuid "3d6cdd62-5634-4e30-acf8-1b9c1dbf6653")
 			(effects
@@ -4000,7 +4000,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0.541666 -1.60248 90)
+			(at -2.6 -0.25 90)
 			(layer "F.SilkS")
 			(uuid "38cfe839-c630-43d3-a9ec-6a89ba9e318a")
 			(effects
@@ -4708,7 +4708,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C8"
-			(at 3.468334 -0.08752 0)
+			(at -0.086872 1.861662 0)
 			(layer "F.SilkS")
 			(uuid "44646447-0a8e-4aec-a74e-22bf765d0f33")
 			(effects
@@ -5888,7 +5888,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
-			(at 2.568334 2.95748 90)
+			(at 1.908128 1.646662 0)
 			(layer "F.SilkS")
 			(uuid "9f80220c-1612-4589-b9ca-a5579617bdb8")
 			(effects
@@ -6124,7 +6124,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at -0.041666 1.97248 0)
+			(at 0.078128 1.751662 0)
 			(layer "F.SilkS")
 			(uuid "79e31048-072a-4a40-a625-26bb0b5f046b")
 			(effects
@@ -8765,7 +8765,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D3"
-			(at -2.185 0.01 0)
+			(at -0.790206 2.514182 0)
 			(layer "F.SilkS")
 			(uuid "7da8efaf-d0d3-4bd4-ace3-f78d8c4be5ba")
 			(effects
@@ -11341,7 +11341,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C11"
-			(at -0.25 -4.11 0)
+			(at -1.209794 1.500818 0)
 			(layer "F.SilkS")
 			(uuid "5d1dfd97-a9e5-43bb-bcb3-ea5beb647f25")
 			(effects
@@ -11577,7 +11577,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 0 1.605 -90)
+			(at -1.425 1.605 -90)
 			(layer "F.SilkS")
 			(uuid "fed6fbaf-169b-459d-8f7f-2674e5b7f320")
 			(effects
@@ -12263,7 +12263,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D1"
-			(at -2.105 -0.2 0)
+			(at -0.815206 2.614182 0)
 			(layer "F.SilkS")
 			(uuid "bc12d55d-3029-4430-9232-337b1a62028e")
 			(effects
@@ -15550,7 +15550,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D2"
-			(at -2.105 -0.02 0)
+			(at -0.710206 2.674182 0)
 			(layer "F.SilkS")
 			(uuid "897136b5-a5d5-4581-a6bf-48c25cde5ca5")
 			(effects
@@ -16051,7 +16051,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins")
 		(tags "LED diameter 3.0mm 2 pins")
 		(property "Reference" "D4"
-			(at -2.175 0 0)
+			(at -0.685206 2.549182 0)
 			(layer "F.SilkS")
 			(uuid "a15739ab-9211-4aeb-9603-bc7b827421d7")
 			(effects
