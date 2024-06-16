@@ -2991,7 +2991,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/SLW-120-01-G-D.stp"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/SLW-120-01-G-D.stp"
 			(offset
 				(xyz -1.27 -24.13 0)
 			)
@@ -3002,7 +3002,7 @@
 				(xyz -90 0 90)
 			)
 		)
-		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/Raspberry PI Zero W.step"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/Raspberry PI Zero W.step"
 			(offset
 				(xyz 25.2222 8.382 12.065)
 			)
@@ -3284,7 +3284,7 @@
 			(pintype "input")
 			(uuid "b1c649b1-f44d-46c7-9dea-818e75a1b87e")
 		)
-		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/BSW-105-04-G-S.stp"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/BSW-105-04-G-S.stp"
 			(offset
 				(xyz -1.8034 -14.986 8.89)
 			)
@@ -3295,7 +3295,7 @@
 				(xyz 90 0 180)
 			)
 		)
-		(model "C:/Users/tom/Documents/GitHub/kicad_library/3D Models/uCAM-III_simplestepmodel_R_4_1.STEP"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/uCAM-III_simplestepmodel_R_4_1.STEP"
 			(offset
 				(xyz -0.127 0 -10.16)
 			)
@@ -7630,6 +7630,7 @@
 			(uuid "55e740a3-0735-4744-896e-2bf5437093b9")
 		)
 		(model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x26_P2.54mm_Vertical.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7638,6 +7639,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../kicad_library/3D Models/ESQ-126-39-G-S.step"
+			(offset
+				(xyz 0 -31.75 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/../kicad_library/3D Models/ESQ-126-39-G-S.step"
+			(offset
+				(xyz -2.54 -31.75 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -8551,6 +8574,7 @@
 			(uuid "bd5408e4-362d-4e43-9d39-78fb99eb52c8")
 		)
 		(model "${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x26_P2.54mm_Vertical.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8559,6 +8583,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/../kicad_library/3DModels/ESQ-126-39-G-S.step"
+			(offset
+				(xyz 0 -31.75 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
+		(model "${KIPRJMOD}/../kicad_library/3DModels/ESQ-126-39-G-S.step"
+			(offset
+				(xyz -2.54 -31.75 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 -90)
 			)
 		)
 	)
