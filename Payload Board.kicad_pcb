@@ -8585,7 +8585,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/../kicad_library/3DModels/ESQ-126-39-G-S.step"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/ESQ-126-39-G-S.step"
 			(offset
 				(xyz 0 -31.75 2.54)
 			)
@@ -8596,7 +8596,7 @@
 				(xyz -90 0 90)
 			)
 		)
-		(model "${KIPRJMOD}/../kicad_library/3DModels/ESQ-126-39-G-S.step"
+		(model "${KIPRJMOD}/../kicad_library/3D Models/ESQ-126-39-G-S.step"
 			(offset
 				(xyz -2.54 -31.75 2.54)
 			)
